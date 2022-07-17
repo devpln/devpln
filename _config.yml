@@ -1,7 +1,7 @@
 theme: jekyll-theme-cayman
 og:
-- title: devpln
+  title: devpln
   locale: zh_CN
   description: devpln主页
 twitter:
-- title: devpln
+  title: devpln
